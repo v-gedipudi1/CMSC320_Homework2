@@ -20,20 +20,3 @@ Moral Foundations Theory (MFT) - The idea that our sense of right and wrong come
 Individual Autonomy - The freedom to make personal choices without being judged. The data shows students are more likely to give this freedom to men.
 
 Relational Responsibility - The expectation that a person should put others (like family or patients) first. The data shows students expect this more strictly from women.
-
----
-
-## Key Visualization
-Below is the primary distribution analysis of the "Doctor Scenario." The results show a significant right-skew for female protagonists, indicating a stricter moral standard compared to their male counterparts.
-
-![Student Moral Judgments Plot](final_analysis_plot.png)
-
-
-
----
-
-## 🛠️ Installation & Usage
-To replicate this analysis, ensure you have Python 3.x installed along with the following libraries:
-
-```bash
-pip install pandas numpy seaborn matplotlib scipy
